@@ -1,0 +1,37 @@
+body{
+    background-color: #3495eb;
+    color: #fff;
+}
+
+h1{
+    font-size: 50px;
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+}
+p{
+    color: yellow;
+}
+#p1{
+    color: black;
+}
+span{
+    color: red;
+    font-size: 24px;
+    font-weight: 900;
+}
+button{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    font-size: 30;
+    border-radius: 50%;
+    box-shadow: 45px 50px 5px black;
+    border: none;
+    position: absolute;
+    left: 550px;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
